@@ -1,18 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
+    <title>JiaXuDong`s Blog</title>
     <link>https://jia-xudong.github.io/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <description>Recent content on JiaXuDong`s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 13 Apr 2023 20:12:20 +0800</lastBuildDate><atom:link href="https://jia-xudong.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>HelloWorld</title>
+      <title>Hellohugo</title>
       <link>https://jia-xudong.github.io/posts/hellohugo/</link>
       <pubDate>Thu, 13 Apr 2023 20:12:20 +0800</pubDate>
       
       <guid>https://jia-xudong.github.io/posts/hellohugo/</guid>
+      <description>Hello Hugo </description>
+    </item>
+    
+    <item>
+      <title>HelloWorld</title>
+      <link>https://jia-xudong.github.io/posts/helloworld/</link>
+      <pubDate>Thu, 13 Apr 2023 20:12:20 +0800</pubDate>
+      
+      <guid>https://jia-xudong.github.io/posts/helloworld/</guid>
       <description>Hello World </description>
     </item>
     
