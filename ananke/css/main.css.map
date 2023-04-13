@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "main.css",
-	"sourceRoot": "/root/workspace/Blog/hellohugo",
+	"sourceRoot": "/root/workspace/Blog/helloworld",
 	"sources": [
 		"stdin"
 	],

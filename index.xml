@@ -8,12 +8,12 @@
     <language>en-us</language>
     <lastBuildDate>Thu, 13 Apr 2023 20:12:20 +0800</lastBuildDate><atom:link href="https://jia-xudong.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Hellohugo</title>
+      <title>HelloWorld</title>
       <link>https://jia-xudong.github.io/posts/hellohugo/</link>
       <pubDate>Thu, 13 Apr 2023 20:12:20 +0800</pubDate>
       
       <guid>https://jia-xudong.github.io/posts/hellohugo/</guid>
-      <description>Hello Hugo </description>
+      <description>Hello World </description>
     </item>
     
   </channel>
